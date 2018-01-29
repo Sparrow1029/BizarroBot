@@ -1,0 +1,5 @@
+.__MACOSX__
+*.py[cod]
+config.py
+venv
+.DS_STORE
