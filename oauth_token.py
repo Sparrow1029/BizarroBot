@@ -1,2 +1,0 @@
-oauth_token = 957038181244919809-C6eG33e7tuliQwAleTuLCUcICbI4V4s
-oauth_token_secret = 4BuCaRNHNTQxSozfdwezidHzycp9ntTQInQyFO9RTd6rA
