@@ -1,5 +1,8 @@
-.__MACOSX__
+# Python things
 *.py[cod]
 config.py
 venv
+
+# OS X stuff
 .DS_STORE
+.__MACOSX__
