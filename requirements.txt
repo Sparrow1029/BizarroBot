@@ -1,6 +1,6 @@
 certifi==2018.1.18
 chardet==3.0.4
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.6
 Naked==0.1.31
 oauthlib==2.0.6
